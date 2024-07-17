@@ -6,8 +6,8 @@ import litr15 from "../../assets/imgs/IMG_1192.png";
 import litr5 from "../../assets/imgs/IMG_1229.png";
 import litr10 from "../../assets/imgs/IMG_1219.png";
 import litr19 from "../../assets/imgs/IMG_1228.png";
-import multifruit from "../../assets/imgs/IMG_1221.png";
-import berries from "../../assets/imgs/IMG_1220.png";
+import berries from "../../assets/imgs/IMG_1221.png";
+import multifruit from "../../assets/imgs/IMG_1220.png";
 import tropicmix from "../../assets/imgs/IMG_1222.png";
 
 
@@ -228,7 +228,7 @@ const Products = () => {
                   </div>
                   <div>
                     <p className="products_card_title">
-                    {t("text7")}
+                      {t("text7")}
                     </p>
                   </div>
                   <div className="products_card_btn">
@@ -244,7 +244,7 @@ const Products = () => {
                 <div className="products_card_img_item_1">
                   <img
                     className="products_card_img"
-                    src={tropicmix}
+                    src={multifruit}
                     alt="rasm..."
                   />
                 </div>
@@ -254,7 +254,7 @@ const Products = () => {
                   </div>
                   <div>
                     <p className="products_card_title">
-                    {t("text8")}
+                      {t("text8")}
                     </p>
                   </div>
                   <div className="products_card_btn">
@@ -270,7 +270,7 @@ const Products = () => {
                 <div className="products_card_img_item_1">
                   <img
                     className="products_card_img"
-                    src={tropicmix}
+                    src={berries}
                     alt="rasm..."
                   />
                 </div>
@@ -280,7 +280,7 @@ const Products = () => {
                   </div>
                   <div>
                     <p className="products_card_title">
-                    {t("text9")}
+                      {t("text9")}
                     </p>
                   </div>
                   <div className="products_card_btn">
