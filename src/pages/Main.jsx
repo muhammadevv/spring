@@ -22,7 +22,7 @@ const Main = () => {
               </div>
               <div className="main_btn">
                 <div className="main_btn_children">
-                  <a href="#btn">
+                  <a href="#kontact">
                     {t("order")}
                   </a>
                 </div>
