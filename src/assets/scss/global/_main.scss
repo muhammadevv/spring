@@ -11,10 +11,10 @@
     &_children {
       color: white;
       text-align: center;
-      padding: 15px;
+      padding: 14px;
       border-radius: 6px;
       font-weight: 500;
-      font-size: 25px;
+      font-size: 22px;
       line-height: 22px;
       background: #31a7eb;
     }
@@ -78,7 +78,7 @@
 }
 .main_text_children {
   font-weight: 500;
-  font-size: 32px;
+  font-size: 30px;
   text-align: center;
   line-height: 120%;
   color: steelblue;
@@ -116,14 +116,17 @@
 }
 @media screen and (max-width: 700px) {
   .main_text_children {
-    font-size: 25px;
+    font-size: 32px;
     font-weight: 500;
   }
 }
 @media screen and (max-width: 600px) {
   .main_text_children {
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 500;
+  }
+  .main_btn_children {
+    font-size: 18px;
   }
 }
 @media screen and (max-width: 590px) {
@@ -133,13 +136,13 @@
 }
 @media screen and (max-width: 555px) {
   .main_text_children {
-    font-size: 18px;
+    font-size: 28px;
     font-weight: 500;
   }
 }
 @media screen and (max-width: 480px) {
   .main_text_children {
-    font-size: 14px;
+    font-size: 24px;
     font-weight: 500;
   }
   .main_img_left {
@@ -148,7 +151,7 @@
 }
 @media screen and (max-width: 380px) {
   .main_text_children {
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 500;
   }
 }
@@ -156,10 +159,10 @@
 @media screen and (max-width: 350px) {
   .main_btn_children {
     text-align: center;
-    padding: 11px;
+    padding: 8px;
     border-radius: 6px;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px;
   }
 }
