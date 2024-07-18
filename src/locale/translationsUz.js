@@ -26,8 +26,7 @@ const translationsUz = {
   price3: "6.000 sum",
   price4: "10.000 sum",
   price5: "19.000 sum",
-  zakazText:
-    "Sinov uchun suv buyurtma qiling tekinga Siz suv sifatini va kompaniyamiz xizmatini baholay olasiz.",
+  zakazText: "Biz yetkazib berish bepul",
   zakazButton: "Zakaz qiling",
   partners: "OUR PARTNERS",
   choose: "Nega bizni tanlaysiz bizning afzalliklarimiz",

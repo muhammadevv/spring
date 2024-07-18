@@ -25,8 +25,7 @@ const translationsEn = {
   price3: "6.000 amount",
   price4: "10.000 amount",
   price5: "19.000 amount",
-  zakazText:
-    "Order water for testing for free You can evaluate the quality of water and the service of our company.",
+  zakazText: "We offer free shipping",
   zakazButton: "Make an order",
   partners: "HAMKORLARIMIZ",
   choose: "Why choose us our advantages",
