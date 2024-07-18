@@ -38,8 +38,7 @@ const translationsUz = {
     "SPRING TASTE suvlari sanitariya-epidimiologik talablar asosida ishlab chiqariladi va tegishli muvofiqlik sertifikatlarga ega. SPRING TASTE suvining yoqimli ta’mi va foydali xususiyatlari ekspertlar tomonidan e’tirof etilgan, SPRING TASTE ichimlik suvlarining yuqori sifati esa xalq mehrini qozonib ulgurgan.",
   communication: "Aloqa",
   send: "Yuborish",
-  maintext:
-    "Sinov uchun suv buyurtma qiling tekinga Siz suv sifatini va kompaniyamiz xizmatini baholay olasiz.",
+  maintext: "Bizda yetkazib berish bepul!",
   order: "Buyurtma berish",
   partners: "Hamkorlarimiz",
   why: "Nega bizni tanlaysiz bizning afzalliklarimiz",
@@ -58,7 +57,7 @@ const translationsUz = {
   mail: "Pochta",
   name: "Ismingiz",
   phone: "Telefon",
-  have: "Bizda O'zbekiston bo'ylab etkazib berish bepul!",
+  have: "Bizda O'zbekiston bo'ylab yetkazib berish bepul!",
   menu: "Bosh sahifa ",
 };
 

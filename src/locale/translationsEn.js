@@ -37,8 +37,7 @@ const translationsEn = {
     "SPRING TASTE waters are produced based on sanitary-epidemiological requirements and have appropriate compliance certificates. The pleasant taste and useful properties of SPRING TASTE water have been recognized by experts, and the high quality of SPRING TASTE drinking water has won people's love.",
   communication: "Communication",
   send: "Send",
-  maintext:
-    "Order water for testing for free You can evaluate the quality of water and the service of our company.",
+  maintext: "We have free shipping!",
   order: "Place an order",
   partners: "Our partners",
   why: "Why choose us our advantages",
