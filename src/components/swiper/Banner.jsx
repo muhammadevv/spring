@@ -37,7 +37,8 @@ const Banner = () => {
               <img src={rasm123} alt="rasm" />
             </SwiperSlide>
             <SwiperSlide className="banner-swiper_img">
-              <img src={rasm127} alt="rasm" />
+              <img src={rasm127} alt="rasm" /> 
+              
             </SwiperSlide>
           </Swiper>
         </div>
