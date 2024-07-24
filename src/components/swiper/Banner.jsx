@@ -3,6 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import rasm123 from '../../assets/imgs/8.jpg'
 import rasm124 from '../../assets/imgs/IMG_5684.jpg'
 import rasm126 from '../../assets/imgs/IMG_7721.jpg'
+import rasm127 from '../../assets/imgs/IMG_7723.jpg'
 import { Autoplay } from 'swiper/modules';
 
 
@@ -36,7 +37,7 @@ const Banner = () => {
               <img src={rasm123} alt="rasm" />
             </SwiperSlide>
             <SwiperSlide className="banner-swiper_img">
-              <img src={rasm126} alt="rasm" />
+              <img src={rasm127} alt="rasm" />
             </SwiperSlide>
           </Swiper>
         </div>
