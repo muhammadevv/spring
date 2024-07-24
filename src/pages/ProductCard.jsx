@@ -39,18 +39,6 @@ const ProductCard = () => {
       id: 6,
       img: litr19,
     },
-    {
-      id: 7,
-      img: multifruit,
-    },
-    {
-      id: 8,
-      img: berries,
-    },
-    {
-      id: 9,
-      img: tropicmix,
-    },
 
   ];
 

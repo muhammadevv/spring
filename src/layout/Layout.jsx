@@ -21,6 +21,10 @@ i18n.use(initReactI18next).init({
 });
 
 const Layout = () => {
+
+
+  const layout = localStorage.getItem("")
+  
   const changeLang = (value) => {
     i18n.changeLanguage(value);
 

@@ -57,6 +57,7 @@ const translationsRu = {
   phone: "Телефон",
   have: "У нас бесплатная доставка по всему Узбекистану!",
   menu: "Домашняя",
+  address: "Хорезмская область, город Ургенч, улица Ханка-Д 148 дом",
 };
 
 export default translationsRu;

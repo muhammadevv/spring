@@ -59,6 +59,9 @@ const translationsUz = {
   phone: "Telefon",
   have: "Bizda O'zbekiston bo'ylab yetkazib berish bepul!",
   menu: "Bosh sahifa ",
+  address: "Xorazm viloyati, Urganch shaxar, Xonqa ko'chasi 148-D uy",
+
+
 };
 
 export default translationsUz;

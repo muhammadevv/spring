@@ -69,19 +69,21 @@
     }
   }
   &-1 {
+    width: 100%;
     display: flex;
     align-items: center;
-    // justify-content: space-between;
+    justify-content: space-between;
     gap: 40px;
     height: 100%;
   }
 }
 .main_text_children {
   font-weight: 500;
-  font-size: 30px;
+  font-size: 32px;
   text-align: center;
   line-height: 120%;
   color: steelblue;
+  margin-bottom: 30px;
 }
 .main_text_btn {
   width: 100%;

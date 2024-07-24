@@ -1,9 +1,8 @@
 import { useTranslation } from "react-i18next";
 import { Swiper, SwiperSlide } from "swiper/react";
-import rasm25 from '../../assets/imgs/IMG_5686.jpg'
-import rasm26 from '../../assets/imgs/IMG_5688.jpg'
-import rasm123 from '../../assets/imgs/banner-bg.png'
+import rasm123 from '../../assets/imgs/8.jpg'
 import rasm124 from '../../assets/imgs/IMG_5684.jpg'
+import rasm126 from '../../assets/imgs/IMG_7721.jpg'
 import { Autoplay } from 'swiper/modules';
 
 
@@ -34,21 +33,11 @@ const Banner = () => {
               <img src={rasm124} alt="rasm" />
             </SwiperSlide>
             <SwiperSlide className="banner-swiper_img">
-              <div className="banner-swiper_img_img">
-                <img src={rasm25} alt="rasm" />
-              </div>
-              <div className="banner-swiper_img_img">
-                <img src={rasm26} alt="rasm" />
-              </div>
+              <img src={rasm123} alt="rasm" />
             </SwiperSlide>
-            {/* <SwiperSlide className="banner-swiper_img"> */}
-            {/* <div className="banner-swiper_bg"> */}
-            {/* <img src={rasm123} alt="rasm" /> */}
-            {/* </div> */}
-            {/* <div className="banner-swiper_img_image"> */}
-            {/* <img src={rasm24} alt="rasm" /> */}
-            {/* </div> */}
-            {/* </SwiperSlide> */}
+            <SwiperSlide className="banner-swiper_img">
+              <img src={rasm126} alt="rasm" />
+            </SwiperSlide>
           </Swiper>
         </div>
       </div >

@@ -58,6 +58,7 @@ const translationsEn = {
   phone: "Phone",
   have: "We have free delivery throughout Uzbekistan!",
   menu: "Home",
+  address: "Khorezm region, Urganch city, Khanka street 148-D house",
 };
 
 export default translationsEn;

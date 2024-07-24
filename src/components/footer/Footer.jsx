@@ -27,7 +27,9 @@ const Footer = () => {
                 <FaTelegramPlane />
               </div>
               <div className="footer_instogrom">
-                <FaInstagram />
+                <Link to={"https://www.instagram.com/spring_ichimlik_suvlari/tagged/"}>
+                  <FaInstagram />
+                </Link>
               </div>
               <div className="footer_facebook">
                 <FaFacebookF />
@@ -44,7 +46,7 @@ const Footer = () => {
                   <p className="footer_1_children_text">{t("Tous")}</p>
                 </div>
                 <div>
-                  <p className="footer_1_children_text_1">Urganch</p>
+                  <p className="footer_1_children_text_1">{t("address")}</p>
                 </div>
               </div>
             </div>
@@ -58,31 +60,13 @@ const Footer = () => {
                 </div>
                 <div>
                   <div className="footer_2_text_2">
-                    <Link to={"tel:+998904318111"}>+998904318111</Link>
+                    <p>+998999608877</p>
+                    <p>+998976025585</p>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="footer_3">
-              <div className="footer_3_icon">
-                <MdOutlineSms size={30} />
-              </div>
-              <div className="footer_3_children">
-                <div>
-                  <p className="footer_3_children_text_1">info@spring.uz</p>
-                </div>
-                <div>
-                  <p className="footer_3_children_text_2">{t("mail")}</p>
-                </div>
-              </div>
-            </div>
-          </div>
 
-          <div>
-            <iframe
-              className="footer_maps"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2985.427221585889!2d60.60275398975296!3d41.55999751122483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfc998d0f9aa1d%3A0xdea142db89a830e4!2zRVZPUy3QlNCw0YDQuNGC0LDQuw!5e0!3m2!1sru!2s!4v1720378830117!5m2!1sru!2s"
-            ></iframe>
           </div>
         </div>
       </div>
